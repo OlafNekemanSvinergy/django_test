@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-uxt&jnpw8zot+dr77+=t*pw-c5elp&u#w(o2mf@!$hex$@3x&p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'django_test.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://home-energy-management-tool.herokuapp.com/']
 
 
 # Application definition
